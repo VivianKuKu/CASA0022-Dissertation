@@ -40,6 +40,7 @@ QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor s
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
 
+Unity_ios_app -> Libraries
 https://drive.google.com/file/d/1pBwTycaLs1dgh36WyzQU0zN1cR3pBS9p/view?usp=sharing
 
 
