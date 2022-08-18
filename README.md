@@ -1,5 +1,5 @@
 ## CASA0022 - MSc CE Dissertation
-# Augmented Sensor: A location-based Augmented Reality app for monitoring outdoor IoT networks.
+# Augmented Sensor: A location-based Augmented Reality app for monitoring outdoor IoT networks
 
 QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor sensors by demonstrating the location of each sensor, connecting to the real-time MQTT data feed, and allowing users to record any changes made to the sensors all in one shared platform.
 
