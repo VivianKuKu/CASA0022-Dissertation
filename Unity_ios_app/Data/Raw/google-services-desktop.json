@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "450573218057",
+    "firebase_url": "https://casa0021-dissertation-default-rtdb.europe-west1.firebasedatabase.app/",
+    "project_id": "casa0021-dissertation",
+    "storage_bucket": "casa0021-dissertation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450573218057:ios:85d2e83d144b73ae49e3d8",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.test-ARinUnity-Vuforia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450573218057-80se2jcpi7h0ajovpt0ghi2ealvij9lo.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4bOkUPlgZexJllROUAb-afpzUp9hOblk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

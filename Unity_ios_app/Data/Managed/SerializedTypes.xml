@@ -1,0 +1,109 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Mapbox.Unity.Location.DeviceLocationProvider/DebuggingInEditor" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.CameraBoundsTileProviderOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.ColliderOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.CoreVectorLayerProperties" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.CustomStyleBundle" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.DefaultMapExtents" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.EditorPreviewOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.ElevationLayerProperties" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.ElevationModificationOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.ElevationRequiredOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.GeometryExtrusionOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.GeometryMaterialOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.ImageryLayer" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.ImageryLayerProperties" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.ImageryRasterOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.LayerPerformanceOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.LayerSourceOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.LineGeometryOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.MapExtentOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.MapLocationOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.MapOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.MapPlacementOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.MapScalingOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.PrefabItemOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.RangeAroundTransformTileProviderOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.RangeTileProviderOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.SpawnPrefabOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.Style" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.TerrainColliderOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.TerrainLayer" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.TerrainSideWallOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.TileJsonData" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.UnityLayerOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.VectorFilterOptions" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.VectorLayer" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.VectorLayerProperties" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.Map.VectorSubLayerProperties" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.MeshGeneration.Data.AtlasEntity" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.MeshGeneration.Filters.LayerFilter" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.MeshGeneration.Modifiers.FeatureBundle" preserve="nothing" serialized="true"/>
+		<type fullname="Mapbox.Unity.MeshGeneration.Modifiers.MaterialList" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="LeanTouch">
+		<type fullname="Lean.Touch.LeanFingerFilter" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Unity.TextMeshPro">
+		<type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.KerningTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Sprite" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteCharacter" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_SpriteGlyph" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.TMP_Style" preserve="nothing" serialized="true"/>
+		<type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule">
+		<type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.TextCoreFontEngineModule">
+		<type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="UnityEngine.UI">
+		<type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true"/>
+		<type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true"/>
+	</assembly>
+	<assembly fullname="Vuforia.UnityExtensions">
+		<type fullname="Vuforia.AnchorInputListenerBehaviour/InputReceivedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.ContentPlacedEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.HitTestEvent" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/DatabaseConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/DeviceTrackerConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/GenericVuforiaConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/PackageInfo" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/PlayModeConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/RequiredShaders" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/VideoBackgroundConfiguration" preserve="nothing" serialized="true"/>
+		<type fullname="Vuforia.VuforiaConfiguration/WebCamConfiguration" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>

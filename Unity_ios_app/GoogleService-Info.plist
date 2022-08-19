@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DATABASE_URL</key>
+	<string>https://casa0021-dissertation-default-rtdb.europe-west1.firebasedatabase.app/</string>
+	<key>CLIENT_ID</key>
+	<string>450573218057-80se2jcpi7h0ajovpt0ghi2ealvij9lo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.450573218057-80se2jcpi7h0ajovpt0ghi2ealvij9lo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD4bOkUPlgZexJllROUAb-afpzUp9hOblk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>450573218057</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.DefaultCompany.test-ARinUnity-Vuforia</string>
+	<key>PROJECT_ID</key>
+	<string>casa0021-dissertation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>casa0021-dissertation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:450573218057:ios:85d2e83d144b73ae49e3d8</string>
+</dict>
+</plist>

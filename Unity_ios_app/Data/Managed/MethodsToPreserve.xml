@@ -1,0 +1,53 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AuthManager">
+			<method name="LoginButton"/>
+			<method name="RegisterButton"/>
+		</type>
+		<type fullname="ButtonController">
+			<method name="BTN_Controller_BackToMain"/>
+			<method name="BTN_Controller_DeviceStatus"/>
+			<method name="BTN_Controller_Information"/>
+			<method name="BTN_Controller_Map"/>
+			<method name="BTN_Controller_MQTT"/>
+			<method name="BTN_Controller_SaveDatatoDatabase"/>
+			<method name="BTN_Controller_UserTutorial"/>
+		</type>
+		<type fullname="ButtonController_UserTutorial">
+			<method name="BTN_Controller_UserTutorial"/>
+		</type>
+		<type fullname="FirebaseModelLoader">
+			<method name="DownloadFile"/>
+		</type>
+		<type fullname="GPSCore_for_testing_Firebase">
+			<method name="HideNoGPSPopUp"/>
+			<method name="HideTargetPopUp"/>
+			<method name="HideTargetPopUp"/>
+			<method name="HideTargetPopUp"/>
+		</type>
+		<type fullname="ModelLoader">
+			<method name="BTN_clicked"/>
+		</type>
+		<type fullname="mqttControllerList">
+			<method name="readdata_DeviceStatus"/>
+			<method name="readdata_SensorData"/>
+		</type>
+		<type fullname="realtimedatabase">
+			<method name="readdata"/>
+			<method name="readdata"/>
+			<method name="savedata"/>
+		</type>
+		<type fullname="Screenshot">
+			<method name="ScreenshotButtonClicked"/>
+		</type>
+		<type fullname="UIManager_for_Auth">
+			<method name="LoginScreen"/>
+			<method name="RegisterScreen"/>
+		</type>
+	</assembly>
+	<assembly fullname="Vuforia.UnityExtensions" ignoreIfMissing="1">
+		<type fullname="Vuforia.ContentPositioningBehaviour">
+			<method name="PositionContentAtPlaneAnchor"/>
+		</type>
+	</assembly>
+</linker>
