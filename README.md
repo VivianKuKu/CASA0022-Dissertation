@@ -16,14 +16,19 @@ QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor s
 - Welcome interface
 - Register and login
   - Creating an account for use
+
 -	User instruction
-  -	Showing the functionalities of each button
+  - Showing the functionalities of each button
+  
 -	Map view
-  -	Displaying the locations of sensors and user
+  - Displaying the locations of sensors and user
+
 -	AR notification
   -	Notifying users are near a sensor and able to start the AR experience
+  
 -	AR with digital representation
   -	3D digital representation of sensors
+  
 -	Sensor data dashboard
   -	Showing real-time sensor data
 -	Sensor status dashboard
