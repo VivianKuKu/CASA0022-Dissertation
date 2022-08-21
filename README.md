@@ -59,3 +59,14 @@ https://drive.google.com/file/d/1pBwTycaLs1dgh36WyzQU0zN1cR3pBS9p/view?usp=shari
 <a href="https://twitter.com/v830108ku543"><img src="https://user-images.githubusercontent.com/35039342/55471524-8e24cb00-5627-11e9-9389-58f3d4419153.png" width="60"></a>
 <a href="https://www.linkedin.com/in/vivianchinku/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
 
+
+Package used with its version
+•	m2mqtt https://github.com/eclipse/paho.mqtt.m2mqtt
+•	gltFast https://github.com/atteneder/glTFast
+Firebase Authentication SDK
+Mapbox SDK
+Vuforia SDK
+NativeGallery
+![image](https://user-images.githubusercontent.com/52306317/185804671-1f654f7d-eb5c-4eb7-8bec-999659101f2d.png)
+
+
