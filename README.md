@@ -3,7 +3,7 @@
 
 This paper demonstrates the ability to build a location-based Augmented Reality mobile application for assisting IoT professionals to conduct daily inspections on outdoor sensors. The primary object of this study is to establish the prototype and test the usability to understand how well a location-based AR mobile application can help track outdoor IoT sensors’ contextual information. 
 
-🎨 Find the iOS application installation on [Unity_ios_app](https://github.com/VivianKuKu/CASA0022-Dissertation_Augmented-Sensor/tree/main/Unity_ios_app)
+🎨 Find the iOS application installation on [Unity_ios_app](https://github.com/VivianKuKu/CASA0022-Dissertation_Augmented-Sensor/tree/main/Unity_ios_app) (Please follow the **How to install the App** part)
 
 🚀 Download the design of user interfaces built by Figma  on [User Interface](https://github.com/VivianKuKu/CASA0022-Dissertation_Augmented-Sensor/tree/main/User%20Interface)
 
