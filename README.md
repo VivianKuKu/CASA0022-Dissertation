@@ -39,6 +39,21 @@ This paper demonstrates the ability to build a location-based Augmented Reality 
 
 ## Screenshots
 
+- User Flow
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813479-d5146f54-139e-4e2a-ac02-acb4a8b6725d.png">
+
+- User Interfaces
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813493-2754fa30-b754-4977-b5fc-dca18d1876ad.png">
+User interfaces of Welcome page (left), Register page (middle), and Log in page (right)
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813513-7473a370-7b81-4d02-a5c5-ceb891b6424b.png">
+User interfaces of User instruction (left), Main page (middle), Map view (right)
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813528-0f04b2d9-3256-46a9-8989-0167af86ed45.png">
+User interfaces of AR notification (left), Sensor data dashboard (middle), Sensor status dashboard (right)
+
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813539-a30c6efa-55f5-4b3b-b562-c61ad7eb6678.png">
+User interfaces of Project information (left), Screenshot (middle), Adding new sensor (right)
 
 
 
