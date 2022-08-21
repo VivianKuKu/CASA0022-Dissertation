@@ -13,19 +13,27 @@ QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor s
 
 ## Features
 
-- Map page
-  - Find the location of each device
-  - Make sure the device ID they are working with
-- Data page
-  - Check the real-time data feed connecting to the MQTT server without browsing several web pages for different projects or the MQTT server via computers
-- Create page
-  - Add new logs to record the maintenance, changes, or testing users have made for the specific device
-  - Any detail regarding project ID, device ID, date, time, description, and attachment can be uploaded here
-- Log page
-  - Display the created logs chronically
-- Profile page
-  - Log in and out 
-  - Manage the authentication of the app’s functions
+- Welcome interface
+- Register and login
+  - Creating an account for use
+-	User instruction
+  -	Showing the functionalities of each button
+-	Map view
+  -	Displaying the locations of sensors and user
+-	AR notification
+  -	Notifying users are near a sensor and able to start the AR experience
+-	AR with digital representation
+  -	3D digital representation of sensors
+-	Sensor data dashboard
+  -	Showing real-time sensor data
+-	Sensor status dashboard
+  -	Showing live sensor status
+-	Information dashboard
+  -	Showing project and sensor information
+-	Screenshot
+  -	Saving screenshot to Firebase and local file system.
+-	Adding a new sensor to the database
+  -	Saving new information to Firebase
 
 
 ## Screenshots
@@ -51,7 +59,7 @@ QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor s
 
 
 
-##Package used
+##  Package used
 •	m2mqtt https://github.com/eclipse/paho.mqtt.m2mqtt
 •	gltFast https://github.com/atteneder/glTFast
 Firebase Authentication SDK
