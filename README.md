@@ -67,6 +67,6 @@ Firebase Authentication SDK
 Mapbox SDK
 Vuforia SDK
 NativeGallery
-![image](https://user-images.githubusercontent.com/52306317/185804671-1f654f7d-eb5c-4eb7-8bec-999659101f2d.png)
+
 
 
