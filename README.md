@@ -40,12 +40,10 @@ QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor s
 - Any Operating System (ie. MacOS X, Linux, Windows)
 - Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
 
-Unity_ios_app -> Libraries
-https://drive.google.com/file/d/1pBwTycaLs1dgh36WyzQU0zN1cR3pBS9p/view?usp=sharing
 
 
 **Steps**
-1. Download **Unity_ios_app** folder
+1. Download **Unity_ios_app** folder in repository
 2. Download **Unity_ios_app_others** from this [link](https://drive.google.com/drive/folders/1TLBD_9sWFYAgYLjxcWNP1_Kc4d8Exv8x?usp=sharing)
 3. Put **Framework** folder inside the downloaded **Unity_ios_app** folder
 4. Put **libil2cpp.a** and **libiPhone-lib.a** inside **Unity_ios_app** -> **Libraries**
