@@ -1,13 +1,13 @@
 ## CASA0022 - MSc CE Dissertation
 # Augmented Sensor: A location-based Augmented Reality app for monitoring outdoor IoT networks
 
-QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor sensors by demonstrating the location of each sensor, connecting to the real-time MQTT data feed, and allowing users to record any changes made to the sensors all in one shared platform.
+This paper demonstrates the ability to build a location-based Augmented Reality mobile application for assisting IoT professionals to conduct daily inspections on outdoor sensors. The primary object of this study is to establish the prototype and test the usability to understand how well a location-based AR mobile application can help track outdoor IoT sensors’ contextual information. 
 
-🎨 Find the original idea pitch on [Idea Pitch page](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/tree/main/Idea%20Pitch)
+🎨 Find the iOS application installation on [Unity_ios_app](https://github.com/VivianKuKu/CASA0022-Dissertation_Augmented-Sensor/tree/main/Unity_ios_app)
 
-🚀 Download the Flutter file of QEOP IoT on [QEOP IoT page](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/tree/main/QEOP%20IoT)
+🚀 Download the design of user interfaces built by Figma  on [User Interface](https://github.com/VivianKuKu/CASA0022-Dissertation_Augmented-Sensor/tree/main/User%20Interface)
 
-🦆 Find the final presentation slides on [Final Presentation_QEOP IoT](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/blob/main/Final%20Presentation_QEOP%20IoT.pdf)
+🦆 Check the demo video on [Youtube link](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/blob/main/Final%20Presentation_QEOP%20IoT.pdf)
 
 
 
