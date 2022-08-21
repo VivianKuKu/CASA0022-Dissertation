@@ -37,21 +37,27 @@ QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor s
  
 **Requirement**
 
-- Any Operating System (ie. MacOS X, Linux, Windows)
-- Any IDE with Flutter SDK installed (ie. Android Studio, VSCode, IntelliJ, etc)
-
+- Any iOS System (Suggestions: iPhone X and above)
 
 
 **Steps**
 1. Download **Unity_ios_app** folder in repository
 2. Download **Unity_ios_app_others** from this [link](https://drive.google.com/drive/folders/1TLBD_9sWFYAgYLjxcWNP1_Kc4d8Exv8x?usp=sharing)
-3. Put **Framework** folder inside the downloaded **Unity_ios_app** folder
+3. Put **Frameworks** folder inside the downloaded **Unity_ios_app** folder
 4. Put **libil2cpp.a** and **libiPhone-lib.a** inside **Unity_ios_app** -> **Libraries**
 5. Put **resources.assets.resS** inside **Unity_ios_app** -> **Data**
 6. Open **Unity_ios_app** -> **Unity-iPhone.xcworkspace** in Xcode
 7. Run the applicaion on the ios devices
 
 
+
+##Package used
+•	m2mqtt https://github.com/eclipse/paho.mqtt.m2mqtt
+•	gltFast https://github.com/atteneder/glTFast
+Firebase Authentication SDK
+Mapbox SDK
+Vuforia SDK
+NativeGallery
 
 
 ##  Contact Details
@@ -60,13 +66,6 @@ QEOP IoT app helps the IoT sensor management team maintain hundreds of outdoor s
 <a href="https://www.linkedin.com/in/vivianchinku/"><img src="https://user-images.githubusercontent.com/35039342/55471530-94b34280-5627-11e9-8c0e-6fe86a8406d6.png" width="60"></a>
 
 
-Package used with its version
-•	m2mqtt https://github.com/eclipse/paho.mqtt.m2mqtt
-•	gltFast https://github.com/atteneder/glTFast
-Firebase Authentication SDK
-Mapbox SDK
-Vuforia SDK
-NativeGallery
 
 
 
