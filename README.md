@@ -45,11 +45,13 @@ https://drive.google.com/file/d/1pBwTycaLs1dgh36WyzQU0zN1cR3pBS9p/view?usp=shari
 
 
 **Steps**
-1. Setup Flutter 
-2. Clone the repo
-3. Create an Google Maps API Key on Google's developer portal website.
-4. [ios app] Paste your API key into AppDelegate.swift in the following line: GMSServices.provideAPIKey("Your API")
-5. [android app] Paste our API key into android/app/src/main/AndroidManifest.xml in the following line: meta-data android:name="com.google.android.geo.API_KEY" android:value="YOUR-KEY-HERE"
+1. Download **Unity_ios_app** folder
+2. Download **Unity_ios_app_others** from this [link](https://drive.google.com/drive/folders/1TLBD_9sWFYAgYLjxcWNP1_Kc4d8Exv8x?usp=sharing)
+3. Put **Framework** folder inside the downloaded **Unity_ios_app** folder
+4. Put **libil2cpp.a** and **libiPhone-lib.a** inside **Unity_ios_app** -> **Libraries**
+5. Put **resources.assets.resS** inside **Unity_ios_app** -> **Data**
+6. Open **Unity_ios_app** -> **Unity-iPhone.xcworkspace** in Xcode
+7. Run the applicaion on the ios devices
 
 
 
