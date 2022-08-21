@@ -37,12 +37,10 @@ This paper demonstrates the ability to build a location-based Augmented Reality 
      -	Saving new information to Firebase
 
 
-## Screenshots
-
-- User Flow
+## User Flow
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813479-d5146f54-139e-4e2a-ac02-acb4a8b6725d.png">
 
-- User Interfaces
+## User Interfaces
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813493-2754fa30-b754-4977-b5fc-dca18d1876ad.png">
 User interfaces of Welcome page (left), Register page (middle), and Log in page (right)
 
@@ -55,27 +53,34 @@ User interfaces of AR notification (left), Sensor data dashboard (middle), Senso
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/52306317/185813539-a30c6efa-55f5-4b3b-b562-c61ad7eb6678.png">
 User interfaces of Project information (left), Screenshot (middle), Adding new sensor (right)
 
-- System Architecture
+## System Architecture
 
 **Authentication**
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/52306317/185813560-0d88242b-9da2-486c-b058-23f0e3de016a.png">
 
 **Map**
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/52306317/185813594-f85dc803-6b82-402a-8b23-9fdac0bf50b1.png">
 
 **AR and Digital Representation**
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/52306317/185813610-25459382-d30f-495f-9caf-72323c823306.png">
 
 **Sensor data dashboard / Sensor status dashboard**
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/52306317/185813624-7b6c382a-a357-4762-8a35-e3b78c6de32b.png">
 
 **Project and Sensor Information Dashboard**
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/52306317/185813646-f75d3afa-fab6-4499-8c0c-bd4d490addfb.png">
 
 **Screenshot**
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/52306317/185813651-09440b1f-7ba4-4ec5-b1f3-1d0b97169341.png">
 
 **Add a new sensor to the database**
+
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/52306317/185813669-57aa0b0d-27f4-419b-9029-c96fc78c50b0.png">
 
 
