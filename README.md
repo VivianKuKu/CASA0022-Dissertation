@@ -7,7 +7,7 @@ This paper demonstrates the ability to build a location-based Augmented Reality 
 
 🚀 Download the design of user interfaces built by Figma  on [User Interface](https://github.com/VivianKuKu/CASA0022-Dissertation_Augmented-Sensor/tree/main/User%20Interface)
 
-🦆 Check the demo video on [Youtube link](https://github.com/VivianKuKu/CASA0015_Mobile-System_QEOP-IoT/blob/main/Final%20Presentation_QEOP%20IoT.pdf)
+🦆 Check the demo video on [Youtube link](https://youtu.be/pVpWK_tlCZU)
 
 🚗 Find the User Testing Instructions and User Testing Survey on [User Testing](https://github.com/VivianKuKu/CASA0022-Dissertation_Augmented-Sensor/tree/main/User%20Testing)
 
