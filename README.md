@@ -104,18 +104,25 @@ User interfaces of Project information (left), Screenshot (middle), Adding new s
 
 
 
-##  Package used
+##  Packages and Libraries Used
+
 - m2mqtt-  https://github.com/eclipse/paho.mqtt.m2mqtt
 
 - gltFast-  https://github.com/atteneder/glTFast
 
-- Firebase Authentication SDK- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiXq7nh0Nr5AhXoQUEAHXUZAKUQFnoECAUQAQ&url=https%3A%2F%2Ffirebase.google.com%2Fdocs%2Fauth&usg=AOvVaw3jN7sLQiOpZOAWGkdZ63r1
+- Firebase Authentication SDK- https://firebase.google.com/docs/auth
+
+- Firebase Realtime Database- https://firebase.google.com/docs/database
+
+- Firebase Storage- https://firebase.google.com/docs/storage
 
 - Mapbox SDK- https://www.mapbox.com/unity
 
 - Vuforia SDK- https://developer.vuforia.com/
 
 - NativeGallery- https://github.com/yasirkula/UnityNativeGallery
+
+- Scaniverse- https://scaniverse.com/
 
 
 ##  Contact Details
